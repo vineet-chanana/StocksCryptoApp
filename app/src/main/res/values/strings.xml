@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StocksCrypto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Rs">\u20B9</string>
+    <string name="Title_Stocks">Stocks</string>
+</resources>
